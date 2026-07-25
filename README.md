@@ -10,3 +10,5 @@ Cherry MX red switch: Baco
 Seeed Studio XIAO rp2040: Seeed Studio
 EC11 rotary encoder: Xindela
 0.91" OLED display: John England
+
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/hydraprimus/Locked_in_hackpad/main/PCB)
